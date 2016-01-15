@@ -1,2 +1,2 @@
-# opencv-experimenting
-Messing arround with frameworks and interfaces for input, processing, and editing images with OpenCV and WPILib's ntcore.
+# frc2016vision
+FRC 2016 Vision code running on a Raspberry Pi
